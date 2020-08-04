@@ -1,0 +1,10 @@
+---
+layout: post
+title: 开始学习操作系统了
+---
+
+首先使用install67.iso创建虚拟机，选择其他系统
+所有设置选择default（enter到底）
+SHA256选择不验证
+进入系统
+
