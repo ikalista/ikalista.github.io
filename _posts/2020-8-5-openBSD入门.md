@@ -8,3 +8,5 @@ title: 开始学习操作系统了
 SHA256选择不验证
 进入系统
 
+w: 查看用户列表
+pkg-get <package name>: 安装软件
