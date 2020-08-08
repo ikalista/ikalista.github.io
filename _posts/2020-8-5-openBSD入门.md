@@ -10,3 +10,7 @@ SHA256选择不验证
 
 w: 查看用户列表
 pkg-get <package name>: 安装软件
+
+chmod 777 testfile.c：给权限
+gcc testfile.c -o testfile:编译
+./testfile: 运行
