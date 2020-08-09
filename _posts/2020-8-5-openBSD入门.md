@@ -9,8 +9,11 @@ SHA256选择不验证
 进入系统
 
 w: 查看用户列表
-pkg-get <package name>: 安装软件
+pkg-get <package name>:   安装软件
 
-chmod 777 testfile.c：给权限
-gcc testfile.c -o testfile:编译
-./testfile: 运行
+chmod 777 testfile.c：     给权限
+gcc testfile.c -o testfile:   编译
+./testfile:     运行
+
+apt-get install build-essential： 安装build-essential
+sudo apt-get update：  更新apt-get
