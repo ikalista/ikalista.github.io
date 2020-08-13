@@ -34,3 +34,7 @@ sudo apt-get update：  更新apt-get
 <p>svn commit 上载，更新服务器文件</p>
 <p>(openbsd操作)svn commit -m "message" filename 上载固定文件，更新服务器文件</p>
 <p>svn update 下载，更新本地文件</p>
+
+
+<h1> 编译命令 </h1>
+<p>-Wall -Werror 第一个为将warning显示 第二个为将warning作为error显示</p>
